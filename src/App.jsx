@@ -4,7 +4,9 @@ import React from 'react'
 
 const App = () => {
   return (
-    <div>App</div>
+    <div>
+      <h1>Hosting webpages</h1>
+    </div>
   )
 }
 
